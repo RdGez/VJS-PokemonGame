@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+}
+body {
+  background-repeat: no-repeat;
+  background: rgb(173, 255, 172);
+  background: linear-gradient(0deg,rgba(173, 255, 172, 1) 0%,rgba(255, 252, 183, 1) 100%);
+  margin: 0px;
+}
